@@ -4,16 +4,16 @@
     {
       "type": "Feature",
       "properties": {
-	     "shape": "Polygon",
+	       "shape": "Polygon",
          "name": "Saudi Arabia",
-		 "author": "Almokhtar M. Bukhamsin",
-		 "date": "10/03/2023",
-		 "license": "Open License"
-	  },
+		     "author": "Almokhtar M. Bukhamsin",
+		     "date": "10/03/2023",
+		     "license": "Open License"
+	    },
       "geometry": {
         "coordinates": [
           [
-[
+          [
             45.597218129464665,
             29.130727893790663
           ],
